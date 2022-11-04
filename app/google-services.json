@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256871746154",
+    "project_id": "notes-4cc1c",
+    "storage_bucket": "notes-4cc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256871746154:android:f2ef3129714c9cad80d813",
+        "android_client_info": {
+          "package_name": "com.example.mipt_4_praktikos_darbas_dovydas_dosinas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256871746154-fhcjuaumj059lprdtjqvkmoitt24kh46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOjbe67syuOPxhAR3mPs7KTA-5X2Aidks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256871746154-fhcjuaumj059lprdtjqvkmoitt24kh46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
